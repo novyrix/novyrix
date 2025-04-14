@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edmund Spira
 
-![Profile Views](#)
+![Profile Views](https://komarev.com/ghpvc/?username=edmundspira&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/edmundspira?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/edmundspira?style=social)
 
